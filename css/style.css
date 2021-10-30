@@ -1,0 +1,20 @@
+/* Section */
+section {
+    padding-top: 5rem;
+}
+
+/* Jumbotron */
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #E2EDFF;
+}
+
+/* Projects */
+#projects {
+    background-color: #E2EDFF;
+}
+
+/* Footer */
+footer a {
+    text-decoration: none;
+}
