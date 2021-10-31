@@ -22,3 +22,17 @@ section {
 footer a {
     text-decoration: none;
 }
+
+footer p {
+    font-size: 15px;
+}
+
+
+
+/* Breakpoints */
+/* Desktop */
+@media (min-width: 992px) {
+    footer p {
+        font-size: 20px;
+    }
+}
