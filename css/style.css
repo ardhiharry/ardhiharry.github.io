@@ -9,6 +9,10 @@ section {
     background-color: #E2EDFF;
 }
 
+.jumbotron p {
+    font-weight: 500;
+}
+
 /* Projects */
 #projects {
     background-color: #E2EDFF;
